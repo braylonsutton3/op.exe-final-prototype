@@ -1,0 +1,136 @@
+{
+  "validation_window": "2023-01-01 through 2025-12-11 (first 35 sessions of each separately run segment used as warm-up)",
+  "quality_threshold": 76,
+  "selection_note": "Threshold was compared on the 2024-2025 portion, so the combined result is descriptive and not a pristine untouched out-of-sample claim.",
+  "trades": 52,
+  "net_pnl": 2983.5,
+  "win_rate": 50.0,
+  "profit_factor": 1.838,
+  "max_drawdown": -811.5,
+  "average_trade": 57.38,
+  "positive_months": 16,
+  "negative_months": 14,
+  "months_with_trades": 30,
+  "monthly": {
+    "2023-03": {
+      "net_pnl": 262.5,
+      "trades": 3
+    },
+    "2023-04": {
+      "net_pnl": -94.5,
+      "trades": 1
+    },
+    "2023-06": {
+      "net_pnl": -117.0,
+      "trades": 1
+    },
+    "2023-07": {
+      "net_pnl": 12.0,
+      "trades": 3
+    },
+    "2023-08": {
+      "net_pnl": 255.0,
+      "trades": 1
+    },
+    "2023-09": {
+      "net_pnl": 231.0,
+      "trades": 1
+    },
+    "2023-11": {
+      "net_pnl": 210.0,
+      "trades": 1
+    },
+    "2023-12": {
+      "net_pnl": -19.5,
+      "trades": 2
+    },
+    "2024-02": {
+      "net_pnl": -96.0,
+      "trades": 1
+    },
+    "2024-03": {
+      "net_pnl": 414.0,
+      "trades": 3
+    },
+    "2024-04": {
+      "net_pnl": 150.0,
+      "trades": 2
+    },
+    "2024-05": {
+      "net_pnl": -72.0,
+      "trades": 1
+    },
+    "2024-06": {
+      "net_pnl": 228.0,
+      "trades": 1
+    },
+    "2024-07": {
+      "net_pnl": 204.0,
+      "trades": 1
+    },
+    "2024-08": {
+      "net_pnl": -160.5,
+      "trades": 1
+    },
+    "2024-09": {
+      "net_pnl": 144.0,
+      "trades": 3
+    },
+    "2024-10": {
+      "net_pnl": 759.0,
+      "trades": 3
+    },
+    "2024-11": {
+      "net_pnl": 220.5,
+      "trades": 3
+    },
+    "2024-12": {
+      "net_pnl": -141.0,
+      "trades": 3
+    },
+    "2025-01": {
+      "net_pnl": -90.0,
+      "trades": 1
+    },
+    "2025-02": {
+      "net_pnl": 271.5,
+      "trades": 1
+    },
+    "2025-03": {
+      "net_pnl": -414.0,
+      "trades": 2
+    },
+    "2025-04": {
+      "net_pnl": 688.5,
+      "trades": 4
+    },
+    "2025-05": {
+      "net_pnl": -94.5,
+      "trades": 1
+    },
+    "2025-06": {
+      "net_pnl": -135.0,
+      "trades": 1
+    },
+    "2025-07": {
+      "net_pnl": -121.5,
+      "trades": 1
+    },
+    "2025-09": {
+      "net_pnl": -213.0,
+      "trades": 2
+    },
+    "2025-10": {
+      "net_pnl": 352.5,
+      "trades": 2
+    },
+    "2025-11": {
+      "net_pnl": 496.5,
+      "trades": 1
+    },
+    "2025-12": {
+      "net_pnl": -147.0,
+      "trades": 1
+    }
+  }
+}

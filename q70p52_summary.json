@@ -1,0 +1,97 @@
+{
+  "trades": 73,
+  "net_pnl": -2427.21,
+  "win_rate": 28.77,
+  "profit_factor": 0.551,
+  "max_drawdown": -2565.77,
+  "average_trade": -33.25,
+  "positive_months": 6,
+  "negative_months": 15,
+  "months_with_trades": 21,
+  "monthly": {
+    "2023-03": {
+      "net_pnl": -269.76,
+      "trades": 8
+    },
+    "2023-07": {
+      "net_pnl": -122.48,
+      "trades": 1
+    },
+    "2023-09": {
+      "net_pnl": 220.83,
+      "trades": 1
+    },
+    "2023-11": {
+      "net_pnl": -386.12,
+      "trades": 6
+    },
+    "2023-12": {
+      "net_pnl": -134.87,
+      "trades": 6
+    },
+    "2024-01": {
+      "net_pnl": 19.07,
+      "trades": 6
+    },
+    "2024-02": {
+      "net_pnl": 130.57,
+      "trades": 1
+    },
+    "2024-05": {
+      "net_pnl": 199.02,
+      "trades": 6
+    },
+    "2024-06": {
+      "net_pnl": -430.05,
+      "trades": 4
+    },
+    "2024-07": {
+      "net_pnl": 265.14,
+      "trades": 3
+    },
+    "2024-08": {
+      "net_pnl": -51.65,
+      "trades": 3
+    },
+    "2024-09": {
+      "net_pnl": -247.82,
+      "trades": 2
+    },
+    "2024-12": {
+      "net_pnl": -259.97,
+      "trades": 7
+    },
+    "2025-01": {
+      "net_pnl": -168.19,
+      "trades": 1
+    },
+    "2025-02": {
+      "net_pnl": -227.72,
+      "trades": 2
+    },
+    "2025-03": {
+      "net_pnl": -60.19,
+      "trades": 2
+    },
+    "2025-05": {
+      "net_pnl": 183.09,
+      "trades": 2
+    },
+    "2025-06": {
+      "net_pnl": -255.93,
+      "trades": 2
+    },
+    "2025-07": {
+      "net_pnl": -78.82,
+      "trades": 1
+    },
+    "2025-09": {
+      "net_pnl": -445.77,
+      "trades": 6
+    },
+    "2025-10": {
+      "net_pnl": -305.59,
+      "trades": 3
+    }
+  }
+}

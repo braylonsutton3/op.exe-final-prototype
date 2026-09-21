@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: op-exe-quant
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run main.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: TOPSTEP_USERNAME
+        sync: false
+      - key: TOPSTEP_API_KEY
+        sync: false
+      - key: ORDERFLOW_BRIDGE_URL
+        sync: false
+      - key: ORDERFLOW_BRIDGE_TOKEN
+        sync: false
